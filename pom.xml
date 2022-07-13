@@ -32,8 +32,8 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/nikunjgupta9/mb2g-release-plugin.git</developerConnection>
-        <url>https://github.com/nikunjgupta9/mb2g-release-plugin</url>
+        <developerConnection>scm:git:https://github.com/nikunjg/mb2g-release-plugin.git</developerConnection>
+        <url>https://github.com/nikunjg/mb2g-release-plugin</url>
         <tag>HEAD</tag>
     </scm>
 
